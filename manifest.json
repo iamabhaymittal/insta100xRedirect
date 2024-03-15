@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Insta100x Redirect",
+  "version": "1.0",
+  "description": "Redirects Instagram to https://app.100xdevs.com/courses/2",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://www.instagram.com/*"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  }
+}
