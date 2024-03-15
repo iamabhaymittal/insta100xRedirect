@@ -1,5 +1,4 @@
 # insta100xRedirect
-![100x](https://github.com/iamabhaymittal/insta100xRedirect/assets/36734498/b0ef249f-4e64-4d21-8ffd-0d2b828be1dd)
 
 A Chrome extension that redirects `instagram.com` to `app.100xdevs.com/courses/`
 
@@ -24,6 +23,8 @@ Follow these steps to install the extension on your Chrome browser:
 Once the extension is installed, whenever you try to visit `instagram.com`, you will be automatically redirected to `https://app.100xdevs.com/courses/`.
 
 This extension helps you stay focused on learning and coding by redirecting you from Instagram to the 100xDevs courses page.
+
+![100x](https://github.com/iamabhaymittal/insta100xRedirect/assets/36734498/b0ef249f-4e64-4d21-8ffd-0d2b828be1dd)
 
 ## Customization
 
