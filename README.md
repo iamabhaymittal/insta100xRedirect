@@ -1,4 +1,5 @@
 # insta100xRedirect
+![100x](https://github.com/iamabhaymittal/insta100xRedirect/assets/36734498/b0ef249f-4e64-4d21-8ffd-0d2b828be1dd)
 
 A Chrome extension that redirects `instagram.com` to `app.100xdevs.com/courses/`
 
